@@ -1,0 +1,30 @@
+{
+  "name": "testwork_seowork",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Testwork for SEOWORK",
+  "author": "Stanislav Shchukin",
+  "scripts": {
+    "run": "node index.js",
+		"serve": "vue-cli-service serve",
+		"build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "highcharts": "^9.3.1",
+    "highcharts-vue": "^1.4.0",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "~4.5.0",
+    "sass": "^1.42.1",
+    "sass-loader": "^10.1.1",
+    "vue-loader": "^15.9.8",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
